@@ -49,9 +49,16 @@ Add `SKILL.md` to your Claude skills folder and you're done.
 
 ---
 
-https://raw.githubusercontent.com/zero-loves/Lim-n-method-/main/SKILL.md
+## redirection to `SKILL.md` file:
+
+[Download SKILL.md](./SKILL.md)
 
 ---
 
+## copy `SKILL.md` in plain text:
+
+https://raw.githubusercontent.com/zero-loves/Lim-n-method-/main/SKILL.md
+
+---
 *Built by Zéro Yang.*
 
