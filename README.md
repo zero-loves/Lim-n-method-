@@ -49,4 +49,9 @@ Add `SKILL.md` to your Claude skills folder and you're done.
 
 ---
 
+[Download SKILL.md](./SKILL.md)
+
+---
+
 *Built by Zéro Yang.*
+
